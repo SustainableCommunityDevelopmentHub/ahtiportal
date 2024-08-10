@@ -40,7 +40,7 @@
     "bootstrap-slider": "^10.6.2",
     "chalk": "^3.0.0",
     "chart.js": "^2.9.4",
-    "cheerio": "^1.0.0-rc.10",
+    "cheerio": "^1.0.0",
     "clockwork": "^0.1.4",
     "cloudinary": "^1.26.2",
     "co": "^4.6.0",
